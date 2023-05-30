@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm goat6</h1>
 <h3 align="center">A passionate front-end developer from the United Kingdom</h3>
 
-- 🔭 I’m currently working on [gssr](https://github.com/goat6/gssr)
+- 🔭 I’m currently working on [spacecases-remake]([https://github.com/goat6/gssr](https://github.com/goat6/spacecases-remake))
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React & Next**
 
-- 👯 I’m looking to collaborate on [spacecases](https://github.com/goat6/spacecases.io)
+- 👯 I’m looking to collaborate on [gssr](https://github.com/goat6/gssr)
 
-- 💬 Ask me about **front-end**
+- 💬 Ask me about **front-end design**
 
 - 📫 How to reach me **thomasyonahamccoy@gmail.com**
 
