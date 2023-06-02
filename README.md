@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm goat6</h1>
+<h1 align="center">Hi 👋, I'm yonahadev</h1>
 <h3 align="center">A passionate front-end developer from the United Kingdom</h3>
 
 - 🔭 I’m currently working on [spacecases-remake](https://github.com/goat6/spacecases-remake)
