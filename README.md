@@ -3,11 +3,6 @@
 ###
 
 <h3 align="left">I'm an a level computer science student from the UK.</h3>
-
-###
-
-<br clear="both">
-
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJS<br>🎯 Goals - Continual improvment<br>🎲 Fun fact - I am half Japanese</p>
 
 ###
