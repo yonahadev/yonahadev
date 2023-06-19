@@ -3,7 +3,8 @@
 ###
 
 <h3 align="left">I'm an a level computer science student from the UK.</h3>
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning NextJS<br>🎯 Goals - Continual improvment<br>🎲 Fun fact - I am half Japanese</p>
+
+🔥 I'm currently working on [**spacecases-remake**](https://github.com/yonahadev/spacecases-remake)<br>📚 I'm currently learning [**NextJS**](https://nextjs.org/)<br>🪣 Ask me about **front-end** development<br>🗻 I am **half Japanese**
 
 ###
 
@@ -24,10 +25,3 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
