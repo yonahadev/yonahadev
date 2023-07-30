@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm an a level computer science student from the UK.</h3>
+<h3 align="left">I'm an A-level computer science student from the UK.</h3>
 
 🔥 I'm currently working on [**yonaha-dic**](https://github.com/yonahadev/yonaha-dic)<br>📚 I'm currently learning [**NextJS**](https://nextjs.org/)<br>🪣 Ask me about **front-end** development<br>🗻 Fun fact: I am **half Japanese**
 
