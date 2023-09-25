@@ -4,7 +4,7 @@
 
 <h3 align="left">I'm an A-level computer science student from the UK.</h3>
 
-🔥 I'm currently working on [**yonahakanji**](https://github.com/yonahadev/yonahakanji)<br>📚 I'm currently learning [**NextJS**](https://nextjs.org/)<br>🪣 Ask me about **front-end** development<br>🗻 Fun fact: I am **half Japanese**
+🔥 I'm currently working on [**my multiplayer game**](https://github.com/yonahadev/multiplayer-game)<br>📚 I'm currently learning [**WebGL**](https://en.wikipedia.org/wiki/WebGL)<br>🪣 Ask me about **front-end** development<br>🗻 Fun fact: I am **half Japanese**
 
 ###
 
