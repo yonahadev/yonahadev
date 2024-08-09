@@ -2,6 +2,4 @@
 
 ###
 
-<h3 align="left">I'm an A-level computer science student from the UK.</h3>
-
-📚 I'm currently improving my [**problem solving**](https://leetcode.com/u/yonahadev/)<br>🪣 Ask me about [**War and Peace**](https://en.wikipedia.org/wiki/War_and_Peace)<br>🗻 I am [**famous on github**](https://github.com/vercel/next.js/discussions/50511#discussioncomment-6245204)
+<h3 align="left">Feel free to check out some of my work!</h3>
